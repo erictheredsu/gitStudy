@@ -3,3 +3,4 @@ add 把变更录入到索引中
 pull 取得远端数据库的内容
 增加分支issue， 当前是issue1，加一句话
 增加分支issue2， 当前是issue2，加一句话
+add new branch issue 4 
