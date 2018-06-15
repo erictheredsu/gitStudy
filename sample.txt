@@ -8,3 +8,5 @@ add new branch issue 4
 add new branch issue5
 add new branch issue6
 1 new line for stage
+add another line, the previous line is staged but not commit
+yes, git add/stage will save a snapshot, so add one change then modify, the new change is not stage until you add it second time.
