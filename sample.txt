@@ -7,3 +7,4 @@ add new branch issue3
 add new branch issue 4 
 add new branch issue5
 add new branch issue6
+1 new line for stage
